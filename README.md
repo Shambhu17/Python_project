@@ -1,2 +1,3 @@
 # Python_project
-This is my first project.
+This is my first Repository.
+Authot: Shambhu Singh
